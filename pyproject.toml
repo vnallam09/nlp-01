@@ -31,6 +31,8 @@ dev = [
     "pre-commit",
     "ruff",
     "validate-pyproject",
+    "pytest",
+    "pytest-cov",
 ]
 
 docs = [
